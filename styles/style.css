@@ -19,3 +19,6 @@ p {
 :root {
   --main-color: purple;
 }
+ul {
+  list-style: none;
+}
